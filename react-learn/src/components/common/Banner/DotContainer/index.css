@@ -1,0 +1,19 @@
+.dots{
+    background-color:rgb(0,0,0,.2);
+    position: absolute;
+    bottom: 10px;
+    left:40%;
+    display: flex;
+    border-radius: 30px;
+
+}
+.dots span{
+    width:6px ;
+    height:6px;
+    background-color:white;
+    margin: 3px 4px;
+    border-radius: 50%;
+}
+.dots .active{
+    background-color: #f40;
+}

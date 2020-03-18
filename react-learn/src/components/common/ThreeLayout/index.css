@@ -1,0 +1,15 @@
+.content{
+    background-color: red;
+    display: flex;
+}
+.main{
+    order: 2;
+    flex: 1 1 auto;
+}
+.left{
+    order: 1;
+
+}
+.right{
+    order: 3;
+}
